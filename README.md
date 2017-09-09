@@ -1,2 +1,0 @@
-# PMTI
-Proyectos PMTI
