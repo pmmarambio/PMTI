@@ -1,5 +1,6 @@
 <?php
 //Local Correcto
+//Cambio 1
 $link = mysql_pconnect("localhost","root","root")or die("No puede conectarse a la Base de Datos");
 mysql_select_db("mysqltest")or die("No puede conectarse a pruebasphp");
 
