@@ -1,6 +1,7 @@
 <?php
 //Local Correcto
-//Cambio 1
+//V0 20170910 Version inicial
+//V1 20170912 Primer cambio desmotración uso de GitHub
 $link = mysql_pconnect("localhost","root","root")or die("No puede conectarse a la Base de Datos");
 mysql_select_db("mysqltest")or die("No puede conectarse a pruebasphp");
 
